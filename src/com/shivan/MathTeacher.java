@@ -1,6 +1,6 @@
 package com.shivan;
 
-import org.springframework.context.annotation.Primary;
+
 
 //MathTeacher class
 
